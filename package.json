@@ -1,5 +1,6 @@
 {
   "name": "mp-resume",
+  "homepage": "https://matplume.github.io/web-resume/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
